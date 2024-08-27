@@ -11,6 +11,8 @@
          </ul>
          </div> -->
       <div id="main-content" class="main grid md:grid-cols-12 gap-6 mt-6">
+
+      
          <div id="sidebarWrap" class="sidebar lg:col-span-3 md:col-span-4">
             <div id="sidebar-profile" class="customer_profileleft">
                <div class="group profile-pic w-[112px]">
